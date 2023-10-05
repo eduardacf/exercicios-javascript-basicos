@@ -27,3 +27,6 @@ switch (formaPagamento) {
         break;
     }
     default: {
+    }
+
+}
